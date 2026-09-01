@@ -11146,48 +11146,41 @@
       "year": "2027",
       "admission_type": "수시1차",
       "capacity_type": "구분없음",
-      "url": "https://addon.jinhakapply.com/RatioV1/RatioH/Ratio41260471.html",
+      "url": "https://addon.jinhakapply.com/RatioV1/RatioH/Ratio41260551.html",
       "departments": [
         {
           "table_title": "전형별 경쟁률 현황",
           "department_name": "일반고",
-          "admission_count": "498",
-          "applicant_count": "6690",
-          "competition_ratio": "13.43 : 1"
+          "admission_count": "1377",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "전형별 경쟁률 현황",
           "department_name": "특성화고",
-          "admission_count": "137",
-          "applicant_count": "1004",
-          "competition_ratio": "7.33 : 1"
+          "admission_count": "367",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "전형별 경쟁률 현황",
           "department_name": "특기자(어학)",
-          "admission_count": "9",
-          "applicant_count": "185",
-          "competition_ratio": "20.56 : 1"
+          "admission_count": "21",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "전형별 경쟁률 현황",
-          "department_name": "농어촌",
-          "admission_count": "30",
-          "applicant_count": "207",
-          "competition_ratio": "6.90 : 1"
-        },
-        {
-          "table_title": "전형별 경쟁률 현황",
-          "department_name": "수급자",
-          "admission_count": "53",
-          "applicant_count": "352",
-          "competition_ratio": "6.64 : 1"
+          "department_name": "연계교육",
+          "admission_count": "5",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "전형별 경쟁률 현황",
           "department_name": "전문대졸 이상",
           "admission_count": "제한없음",
-          "applicant_count": "51",
+          "applicant_count": "0",
           "competition_ratio": "nan"
         },
         {
@@ -11200,814 +11193,429 @@
         {
           "table_title": "일반고 경쟁률 현황",
           "department_name": "자유전공학부",
-          "admission_count": "12",
-          "applicant_count": "174",
-          "competition_ratio": "14.50 : 1"
+          "admission_count": "20",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "일반고 경쟁률 현황",
           "department_name": "기계공학과",
-          "admission_count": "18",
-          "applicant_count": "138",
-          "competition_ratio": "7.67 : 1"
+          "admission_count": "50",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "일반고 경쟁률 현황",
           "department_name": "기계설계공학과",
-          "admission_count": "18",
-          "applicant_count": "126",
-          "competition_ratio": "7.00 : 1"
+          "admission_count": "50",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "일반고 경쟁률 현황",
           "department_name": "로봇자동화공학과",
-          "admission_count": "16",
-          "applicant_count": "104",
-          "competition_ratio": "6.50 : 1"
+          "admission_count": "47",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "일반고 경쟁률 현황",
-          "department_name": "반도체기계정비학과",
-          "admission_count": "9",
-          "applicant_count": "87",
-          "competition_ratio": "9.67 : 1"
+          "department_name": "반도체기계공학과",
+          "admission_count": "29",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "일반고 경쟁률 현황",
           "department_name": "조선기계공학과",
-          "admission_count": "18",
-          "applicant_count": "245",
-          "competition_ratio": "13.61 : 1"
+          "admission_count": "50",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "일반고 경쟁률 현황",
           "department_name": "항공기계공학과",
-          "admission_count": "18",
-          "applicant_count": "232",
-          "competition_ratio": "12.89 : 1"
+          "admission_count": "50",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "일반고 경쟁률 현황",
           "department_name": "자동차공학과",
-          "admission_count": "15",
-          "applicant_count": "117",
-          "competition_ratio": "7.80 : 1"
+          "admission_count": "41",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "일반고 경쟁률 현황",
           "department_name": "전기공학과",
-          "admission_count": "16",
-          "applicant_count": "202",
-          "competition_ratio": "12.63 : 1"
+          "admission_count": "49",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "일반고 경쟁률 현황",
           "department_name": "전자공학과",
-          "admission_count": "18",
-          "applicant_count": "152",
-          "competition_ratio": "8.44 : 1"
+          "admission_count": "48",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "일반고 경쟁률 현황",
           "department_name": "정보통신공학과",
-          "admission_count": "24",
-          "applicant_count": "136",
-          "competition_ratio": "5.67 : 1"
+          "admission_count": "51",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "일반고 경쟁률 현황",
-          "department_name": "컴퓨터정보공학과",
-          "admission_count": "19",
-          "applicant_count": "130",
-          "competition_ratio": "6.84 : 1"
+          "department_name": "AI소프트웨어학과",
+          "admission_count": "53",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "일반고 경쟁률 현황",
-          "department_name": "컴퓨터시스템공학과",
-          "admission_count": "18",
-          "applicant_count": "120",
-          "competition_ratio": "6.67 : 1"
+          "department_name": "AI컴퓨터학과",
+          "admission_count": "52",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "일반고 경쟁률 현황",
           "department_name": "디지털마케팅공학과",
-          "admission_count": "12",
-          "applicant_count": "97",
-          "competition_ratio": "8.08 : 1"
+          "admission_count": "37",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "일반고 경쟁률 현황",
           "department_name": "건설환경공학과",
-          "admission_count": "18",
-          "applicant_count": "112",
-          "competition_ratio": "6.22 : 1"
+          "admission_count": "51",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "일반고 경쟁률 현황",
           "department_name": "공간정보빅데이터학과",
-          "admission_count": "16",
-          "applicant_count": "155",
-          "competition_ratio": "9.69 : 1"
+          "admission_count": "46",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "일반고 경쟁률 현황",
           "department_name": "화학생명공학과",
-          "admission_count": "24",
-          "applicant_count": "155",
-          "competition_ratio": "6.46 : 1"
+          "admission_count": "67",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "일반고 경쟁률 현황",
           "department_name": "재료공학과",
-          "admission_count": "18",
-          "applicant_count": "195",
-          "competition_ratio": "10.83 : 1"
+          "admission_count": "50",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "일반고 경쟁률 현황",
           "department_name": "건축학과",
-          "admission_count": "18",
-          "applicant_count": "138",
-          "competition_ratio": "7.67 : 1"
+          "admission_count": "52",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "일반고 경쟁률 현황",
           "department_name": "실내건축학과",
-          "admission_count": "18",
-          "applicant_count": "126",
-          "competition_ratio": "7.00 : 1"
+          "admission_count": "48",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "일반고 경쟁률 현황",
           "department_name": "산업디자인학과",
-          "admission_count": "15",
-          "applicant_count": "153",
-          "competition_ratio": "10.20 : 1"
+          "admission_count": "40",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "일반고 경쟁률 현황",
           "department_name": "패션디자인학과",
-          "admission_count": "14",
-          "applicant_count": "114",
-          "competition_ratio": "8.14 : 1"
+          "admission_count": "42",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "일반고 경쟁률 현황",
           "department_name": "항공운항과",
-          "admission_count": "32",
-          "applicant_count": "2250",
-          "competition_ratio": "70.31 : 1"
+          "admission_count": "92",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "일반고 경쟁률 현황",
           "department_name": "항공경영학과",
-          "admission_count": "18",
-          "applicant_count": "343",
-          "competition_ratio": "19.06 : 1"
+          "admission_count": "51",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "일반고 경쟁률 현황",
           "department_name": "관광경영학과",
-          "admission_count": "18",
-          "applicant_count": "342",
-          "competition_ratio": "19.00 : 1"
+          "admission_count": "49",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "일반고 경쟁률 현황",
           "department_name": "경영비서학과",
-          "admission_count": "18",
-          "applicant_count": "143",
-          "competition_ratio": "7.94 : 1"
+          "admission_count": "51",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "일반고 경쟁률 현황",
           "department_name": "호텔경영학과",
-          "admission_count": "16",
-          "applicant_count": "162",
-          "competition_ratio": "10.13 : 1"
+          "admission_count": "43",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "일반고 경쟁률 현황",
           "department_name": "물류시스템학과",
-          "admission_count": "12",
-          "applicant_count": "109",
-          "competition_ratio": "9.08 : 1"
+          "admission_count": "34",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "일반고 경쟁률 현황",
           "department_name": "스포츠헬스케어학과",
-          "admission_count": "12",
-          "applicant_count": "133",
-          "competition_ratio": "11.08 : 1"
+          "admission_count": "34",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "특성화고 경쟁률 현황",
           "department_name": "자유전공학부",
           "admission_count": "4",
-          "applicant_count": "22",
-          "competition_ratio": "5.50 : 1"
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "특성화고 경쟁률 현황",
           "department_name": "기계공학과",
-          "admission_count": "5",
-          "applicant_count": "34",
-          "competition_ratio": "6.80 : 1"
+          "admission_count": "13",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "특성화고 경쟁률 현황",
           "department_name": "기계설계공학과",
-          "admission_count": "5",
-          "applicant_count": "23",
-          "competition_ratio": "4.60 : 1"
+          "admission_count": "13",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "특성화고 경쟁률 현황",
           "department_name": "로봇자동화공학과",
-          "admission_count": "4",
-          "applicant_count": "18",
-          "competition_ratio": "4.50 : 1"
+          "admission_count": "12",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "특성화고 경쟁률 현황",
-          "department_name": "반도체기계정비학과",
-          "admission_count": "6",
-          "applicant_count": "36",
-          "competition_ratio": "6.00 : 1"
+          "department_name": "반도체기계공학과",
+          "admission_count": "13",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "특성화고 경쟁률 현황",
           "department_name": "조선기계공학과",
-          "admission_count": "5",
-          "applicant_count": "25",
-          "competition_ratio": "5.00 : 1"
+          "admission_count": "13",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "특성화고 경쟁률 현황",
           "department_name": "항공기계공학과",
-          "admission_count": "8",
-          "applicant_count": "50",
-          "competition_ratio": "6.25 : 1"
+          "admission_count": "15",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "특성화고 경쟁률 현황",
           "department_name": "자동차공학과",
-          "admission_count": "8",
-          "applicant_count": "41",
-          "competition_ratio": "5.13 : 1"
+          "admission_count": "22",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "특성화고 경쟁률 현황",
           "department_name": "전기공학과",
-          "admission_count": "5",
-          "applicant_count": "59",
-          "competition_ratio": "11.80 : 1"
+          "admission_count": "15",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "특성화고 경쟁률 현황",
           "department_name": "전자공학과",
-          "admission_count": "5",
-          "applicant_count": "37",
-          "competition_ratio": "7.40 : 1"
+          "admission_count": "15",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "특성화고 경쟁률 현황",
           "department_name": "정보통신공학과",
-          "admission_count": "6",
-          "applicant_count": "30",
-          "competition_ratio": "5.00 : 1"
+          "admission_count": "12",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "특성화고 경쟁률 현황",
-          "department_name": "컴퓨터정보공학과",
-          "admission_count": "4",
-          "applicant_count": "20",
-          "competition_ratio": "5.00 : 1"
+          "department_name": "AI소프트웨어학과",
+          "admission_count": "13",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "특성화고 경쟁률 현황",
-          "department_name": "컴퓨터시스템공학과",
-          "admission_count": "5",
-          "applicant_count": "23",
-          "competition_ratio": "4.60 : 1"
+          "department_name": "AI컴퓨터학과",
+          "admission_count": "13",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "특성화고 경쟁률 현황",
           "department_name": "디지털마케팅공학과",
-          "admission_count": "3",
-          "applicant_count": "17",
-          "competition_ratio": "5.67 : 1"
+          "admission_count": "10",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "특성화고 경쟁률 현황",
           "department_name": "건설환경공학과",
-          "admission_count": "4",
-          "applicant_count": "16",
-          "competition_ratio": "4.00 : 1"
+          "admission_count": "13",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "특성화고 경쟁률 현황",
           "department_name": "공간정보빅데이터학과",
-          "admission_count": "4",
-          "applicant_count": "20",
-          "competition_ratio": "5.00 : 1"
+          "admission_count": "11",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "특성화고 경쟁률 현황",
           "department_name": "화학생명공학과",
-          "admission_count": "6",
-          "applicant_count": "31",
-          "competition_ratio": "5.17 : 1"
+          "admission_count": "17",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "특성화고 경쟁률 현황",
           "department_name": "재료공학과",
-          "admission_count": "4",
-          "applicant_count": "21",
-          "competition_ratio": "5.25 : 1"
+          "admission_count": "13",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "특성화고 경쟁률 현황",
           "department_name": "건축학과",
-          "admission_count": "5",
-          "applicant_count": "24",
-          "competition_ratio": "4.80 : 1"
+          "admission_count": "13",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "특성화고 경쟁률 현황",
           "department_name": "실내건축학과",
-          "admission_count": "5",
-          "applicant_count": "35",
-          "competition_ratio": "7.00 : 1"
+          "admission_count": "16",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "특성화고 경쟁률 현황",
           "department_name": "산업디자인학과",
-          "admission_count": "4",
-          "applicant_count": "29",
-          "competition_ratio": "7.25 : 1"
+          "admission_count": "13",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "특성화고 경쟁률 현황",
           "department_name": "패션디자인학과",
-          "admission_count": "4",
-          "applicant_count": "33",
-          "competition_ratio": "8.25 : 1"
+          "admission_count": "11",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "특성화고 경쟁률 현황",
           "department_name": "항공운항과",
-          "admission_count": "3",
-          "applicant_count": "159",
-          "competition_ratio": "53.00 : 1"
+          "admission_count": "8",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "특성화고 경쟁률 현황",
           "department_name": "항공경영학과",
-          "admission_count": "5",
-          "applicant_count": "48",
-          "competition_ratio": "9.60 : 1"
+          "admission_count": "13",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "특성화고 경쟁률 현황",
           "department_name": "관광경영학과",
-          "admission_count": "4",
-          "applicant_count": "52",
-          "competition_ratio": "13.00 : 1"
+          "admission_count": "12",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "특성화고 경쟁률 현황",
           "department_name": "경영비서학과",
-          "admission_count": "4",
-          "applicant_count": "34",
-          "competition_ratio": "8.50 : 1"
+          "admission_count": "10",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "특성화고 경쟁률 현황",
           "department_name": "호텔경영학과",
-          "admission_count": "6",
-          "applicant_count": "27",
-          "competition_ratio": "4.50 : 1"
+          "admission_count": "18",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "특성화고 경쟁률 현황",
           "department_name": "물류시스템학과",
-          "admission_count": "3",
-          "applicant_count": "12",
-          "competition_ratio": "4.00 : 1"
+          "admission_count": "8",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "특성화고 경쟁률 현황",
           "department_name": "스포츠헬스케어학과",
-          "admission_count": "3",
-          "applicant_count": "28",
-          "competition_ratio": "9.33 : 1"
+          "admission_count": "8",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "특기자(어학) 경쟁률 현황",
           "department_name": "항공기계공학과",
-          "admission_count": "4",
-          "applicant_count": "14",
-          "competition_ratio": "3.50 : 1"
+          "admission_count": "9",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "특기자(어학) 경쟁률 현황",
           "department_name": "항공운항과",
+          "admission_count": "12",
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
+        },
+        {
+          "table_title": "연계교육 경쟁률 현황",
+          "department_name": "항공기계공학과",
           "admission_count": "5",
-          "applicant_count": "171",
-          "competition_ratio": "34.20 : 1"
-        },
-        {
-          "table_title": "농어촌 경쟁률 현황",
-          "department_name": "기계공학과",
-          "admission_count": "1",
-          "applicant_count": "8",
-          "competition_ratio": "8.00 : 1"
-        },
-        {
-          "table_title": "농어촌 경쟁률 현황",
-          "department_name": "기계설계공학과",
-          "admission_count": "1",
-          "applicant_count": "3",
-          "competition_ratio": "3.00 : 1"
-        },
-        {
-          "table_title": "농어촌 경쟁률 현황",
-          "department_name": "로봇자동화공학과",
-          "admission_count": "1",
-          "applicant_count": "4",
-          "competition_ratio": "4.00 : 1"
-        },
-        {
-          "table_title": "농어촌 경쟁률 현황",
-          "department_name": "반도체기계정비학과",
-          "admission_count": "1",
-          "applicant_count": "4",
-          "competition_ratio": "4.00 : 1"
-        },
-        {
-          "table_title": "농어촌 경쟁률 현황",
-          "department_name": "조선기계공학과",
-          "admission_count": "1",
-          "applicant_count": "5",
-          "competition_ratio": "5.00 : 1"
-        },
-        {
-          "table_title": "농어촌 경쟁률 현황",
-          "department_name": "항공기계공학과",
-          "admission_count": "1",
-          "applicant_count": "4",
-          "competition_ratio": "4.00 : 1"
-        },
-        {
-          "table_title": "농어촌 경쟁률 현황",
-          "department_name": "자동차공학과",
-          "admission_count": "1",
-          "applicant_count": "9",
-          "competition_ratio": "9.00 : 1"
-        },
-        {
-          "table_title": "농어촌 경쟁률 현황",
-          "department_name": "전기공학과",
-          "admission_count": "1",
-          "applicant_count": "5",
-          "competition_ratio": "5.00 : 1"
-        },
-        {
-          "table_title": "농어촌 경쟁률 현황",
-          "department_name": "전자공학과",
-          "admission_count": "1",
-          "applicant_count": "3",
-          "competition_ratio": "3.00 : 1"
-        },
-        {
-          "table_title": "농어촌 경쟁률 현황",
-          "department_name": "정보통신공학과",
-          "admission_count": "1",
-          "applicant_count": "2",
-          "competition_ratio": "2.00 : 1"
-        },
-        {
-          "table_title": "농어촌 경쟁률 현황",
-          "department_name": "컴퓨터정보공학과",
-          "admission_count": "1",
-          "applicant_count": "2",
-          "competition_ratio": "2.00 : 1"
-        },
-        {
-          "table_title": "농어촌 경쟁률 현황",
-          "department_name": "컴퓨터시스템공학과",
-          "admission_count": "1",
-          "applicant_count": "4",
-          "competition_ratio": "4.00 : 1"
-        },
-        {
-          "table_title": "농어촌 경쟁률 현황",
-          "department_name": "디지털마케팅공학과",
-          "admission_count": "1",
-          "applicant_count": "2",
-          "competition_ratio": "2.00 : 1"
-        },
-        {
-          "table_title": "농어촌 경쟁률 현황",
-          "department_name": "건설환경공학과",
-          "admission_count": "1",
-          "applicant_count": "2",
-          "competition_ratio": "2.00 : 1"
-        },
-        {
-          "table_title": "농어촌 경쟁률 현황",
-          "department_name": "공간정보빅데이터학과",
-          "admission_count": "1",
-          "applicant_count": "2",
-          "competition_ratio": "2.00 : 1"
-        },
-        {
-          "table_title": "농어촌 경쟁률 현황",
-          "department_name": "화학생명공학과",
-          "admission_count": "1",
-          "applicant_count": "2",
-          "competition_ratio": "2.00 : 1"
-        },
-        {
-          "table_title": "농어촌 경쟁률 현황",
-          "department_name": "재료공학과",
-          "admission_count": "1",
-          "applicant_count": "2",
-          "competition_ratio": "2.00 : 1"
-        },
-        {
-          "table_title": "농어촌 경쟁률 현황",
-          "department_name": "건축학과",
-          "admission_count": "1",
-          "applicant_count": "1",
-          "competition_ratio": "1.00 : 1"
-        },
-        {
-          "table_title": "농어촌 경쟁률 현황",
-          "department_name": "실내건축학과",
-          "admission_count": "1",
-          "applicant_count": "6",
-          "competition_ratio": "6.00 : 1"
-        },
-        {
-          "table_title": "농어촌 경쟁률 현황",
-          "department_name": "산업디자인학과",
-          "admission_count": "1",
-          "applicant_count": "4",
-          "competition_ratio": "4.00 : 1"
-        },
-        {
-          "table_title": "농어촌 경쟁률 현황",
-          "department_name": "패션디자인학과",
-          "admission_count": "1",
-          "applicant_count": "4",
-          "competition_ratio": "4.00 : 1"
-        },
-        {
-          "table_title": "농어촌 경쟁률 현황",
-          "department_name": "항공운항과",
-          "admission_count": "3",
-          "applicant_count": "104",
-          "competition_ratio": "34.67 : 1"
-        },
-        {
-          "table_title": "농어촌 경쟁률 현황",
-          "department_name": "항공경영학과",
-          "admission_count": "1",
-          "applicant_count": "9",
-          "competition_ratio": "9.00 : 1"
-        },
-        {
-          "table_title": "농어촌 경쟁률 현황",
-          "department_name": "관광경영학과",
-          "admission_count": "1",
-          "applicant_count": "3",
-          "competition_ratio": "3.00 : 1"
-        },
-        {
-          "table_title": "농어촌 경쟁률 현황",
-          "department_name": "경영비서학과",
-          "admission_count": "1",
-          "applicant_count": "2",
-          "competition_ratio": "2.00 : 1"
-        },
-        {
-          "table_title": "농어촌 경쟁률 현황",
-          "department_name": "호텔경영학과",
-          "admission_count": "1",
-          "applicant_count": "4",
-          "competition_ratio": "4.00 : 1"
-        },
-        {
-          "table_title": "농어촌 경쟁률 현황",
-          "department_name": "물류시스템학과",
-          "admission_count": "1",
-          "applicant_count": "2",
-          "competition_ratio": "2.00 : 1"
-        },
-        {
-          "table_title": "농어촌 경쟁률 현황",
-          "department_name": "스포츠헬스케어학과",
-          "admission_count": "1",
-          "applicant_count": "5",
-          "competition_ratio": "5.00 : 1"
-        },
-        {
-          "table_title": "수급자 경쟁률 현황",
-          "department_name": "기계공학과",
-          "admission_count": "2",
-          "applicant_count": "7",
-          "competition_ratio": "3.50 : 1"
-        },
-        {
-          "table_title": "수급자 경쟁률 현황",
-          "department_name": "기계설계공학과",
-          "admission_count": "2",
-          "applicant_count": "4",
-          "competition_ratio": "2.00 : 1"
-        },
-        {
-          "table_title": "수급자 경쟁률 현황",
-          "department_name": "로봇자동화공학과",
-          "admission_count": "2",
-          "applicant_count": "4",
-          "competition_ratio": "2.00 : 1"
-        },
-        {
-          "table_title": "수급자 경쟁률 현황",
-          "department_name": "반도체기계정비학과",
-          "admission_count": "1",
-          "applicant_count": "6",
-          "competition_ratio": "6.00 : 1"
-        },
-        {
-          "table_title": "수급자 경쟁률 현황",
-          "department_name": "조선기계공학과",
-          "admission_count": "2",
-          "applicant_count": "7",
-          "competition_ratio": "3.50 : 1"
-        },
-        {
-          "table_title": "수급자 경쟁률 현황",
-          "department_name": "항공기계공학과",
-          "admission_count": "2",
-          "applicant_count": "21",
-          "competition_ratio": "10.50 : 1"
-        },
-        {
-          "table_title": "수급자 경쟁률 현황",
-          "department_name": "자동차공학과",
-          "admission_count": "2",
-          "applicant_count": "9",
-          "competition_ratio": "4.50 : 1"
-        },
-        {
-          "table_title": "수급자 경쟁률 현황",
-          "department_name": "전기공학과",
-          "admission_count": "2",
-          "applicant_count": "9",
-          "competition_ratio": "4.50 : 1"
-        },
-        {
-          "table_title": "수급자 경쟁률 현황",
-          "department_name": "전자공학과",
-          "admission_count": "2",
-          "applicant_count": "9",
-          "competition_ratio": "4.50 : 1"
-        },
-        {
-          "table_title": "수급자 경쟁률 현황",
-          "department_name": "정보통신공학과",
-          "admission_count": "2",
-          "applicant_count": "5",
-          "competition_ratio": "2.50 : 1"
-        },
-        {
-          "table_title": "수급자 경쟁률 현황",
-          "department_name": "컴퓨터정보공학과",
-          "admission_count": "2",
-          "applicant_count": "10",
-          "competition_ratio": "5.00 : 1"
-        },
-        {
-          "table_title": "수급자 경쟁률 현황",
-          "department_name": "컴퓨터시스템공학과",
-          "admission_count": "2",
-          "applicant_count": "4",
-          "competition_ratio": "2.00 : 1"
-        },
-        {
-          "table_title": "수급자 경쟁률 현황",
-          "department_name": "디지털마케팅공학과",
-          "admission_count": "2",
-          "applicant_count": "13",
-          "competition_ratio": "6.50 : 1"
-        },
-        {
-          "table_title": "수급자 경쟁률 현황",
-          "department_name": "건설환경공학과",
-          "admission_count": "2",
-          "applicant_count": "3",
-          "competition_ratio": "1.50 : 1"
-        },
-        {
-          "table_title": "수급자 경쟁률 현황",
-          "department_name": "공간정보빅데이터학과",
-          "admission_count": "2",
-          "applicant_count": "6",
-          "competition_ratio": "3.00 : 1"
-        },
-        {
-          "table_title": "수급자 경쟁률 현황",
-          "department_name": "화학생명공학과",
-          "admission_count": "2",
-          "applicant_count": "9",
-          "competition_ratio": "4.50 : 1"
-        },
-        {
-          "table_title": "수급자 경쟁률 현황",
-          "department_name": "재료공학과",
-          "admission_count": "2",
-          "applicant_count": "5",
-          "competition_ratio": "2.50 : 1"
-        },
-        {
-          "table_title": "수급자 경쟁률 현황",
-          "department_name": "건축학과",
-          "admission_count": "2",
-          "applicant_count": "9",
-          "competition_ratio": "4.50 : 1"
-        },
-        {
-          "table_title": "수급자 경쟁률 현황",
-          "department_name": "실내건축학과",
-          "admission_count": "2",
-          "applicant_count": "14",
-          "competition_ratio": "7.00 : 1"
-        },
-        {
-          "table_title": "수급자 경쟁률 현황",
-          "department_name": "산업디자인학과",
-          "admission_count": "2",
-          "applicant_count": "8",
-          "competition_ratio": "4.00 : 1"
-        },
-        {
-          "table_title": "수급자 경쟁률 현황",
-          "department_name": "패션디자인학과",
-          "admission_count": "2",
-          "applicant_count": "7",
-          "competition_ratio": "3.50 : 1"
-        },
-        {
-          "table_title": "수급자 경쟁률 현황",
-          "department_name": "항공운항과",
-          "admission_count": "3",
-          "applicant_count": "118",
-          "competition_ratio": "39.33 : 1"
-        },
-        {
-          "table_title": "수급자 경쟁률 현황",
-          "department_name": "항공경영학과",
-          "admission_count": "2",
-          "applicant_count": "12",
-          "competition_ratio": "6.00 : 1"
-        },
-        {
-          "table_title": "수급자 경쟁률 현황",
-          "department_name": "관광경영학과",
-          "admission_count": "1",
-          "applicant_count": "18",
-          "competition_ratio": "18.00 : 1"
-        },
-        {
-          "table_title": "수급자 경쟁률 현황",
-          "department_name": "경영비서학과",
-          "admission_count": "1",
-          "applicant_count": "9",
-          "competition_ratio": "9.00 : 1"
-        },
-        {
-          "table_title": "수급자 경쟁률 현황",
-          "department_name": "호텔경영학과",
-          "admission_count": "1",
-          "applicant_count": "6",
-          "competition_ratio": "6.00 : 1"
-        },
-        {
-          "table_title": "수급자 경쟁률 현황",
-          "department_name": "물류시스템학과",
-          "admission_count": "2",
-          "applicant_count": "6",
-          "competition_ratio": "3.00 : 1"
-        },
-        {
-          "table_title": "수급자 경쟁률 현황",
-          "department_name": "스포츠헬스케어학과",
-          "admission_count": "2",
-          "applicant_count": "14",
-          "competition_ratio": "7.00 : 1"
+          "applicant_count": "0",
+          "competition_ratio": "0.00 : 1"
         },
         {
           "table_title": "지원인원 현황(전문대졸, 북한이탈주민) 지원현황",
@@ -12032,7 +11640,7 @@
         },
         {
           "table_title": "지원인원 현황(전문대졸, 북한이탈주민) 지원현황",
-          "department_name": "반도체기계정비학과",
+          "department_name": "반도체기계공학과",
           "admission_count": "",
           "applicant_count": "",
           "competition_ratio": ""
@@ -12081,14 +11689,14 @@
         },
         {
           "table_title": "지원인원 현황(전문대졸, 북한이탈주민) 지원현황",
-          "department_name": "컴퓨터정보공학과",
+          "department_name": "AI소프트웨어학과",
           "admission_count": "",
           "applicant_count": "",
           "competition_ratio": ""
         },
         {
           "table_title": "지원인원 현황(전문대졸, 북한이탈주민) 지원현황",
-          "department_name": "컴퓨터시스템공학과",
+          "department_name": "AI컴퓨터학과",
           "admission_count": "",
           "applicant_count": "",
           "competition_ratio": ""
@@ -12212,60 +11820,51 @@
           "일반고 경쟁률 현황",
           "특성화고 경쟁률 현황",
           "특기자(어학) 경쟁률 현황",
-          "농어촌 경쟁률 현황",
-          "수급자 경쟁률 현황",
+          "연계교육 경쟁률 현황",
           "지원인원 현황(전문대졸, 북한이탈주민) 지원현황"
         ],
         "tables_html": [
-          "<table >\n  <thead>\n    <tr >\n      <th>구분</th>\n      <th>전형명</th>\n      <th>전형명.1</th>\n      <th>모집인원</th>\n      <th>지원인원</th>\n      <th>경쟁률</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>정원내</td>\n      <td>일반고</td>\n      <td>일반고</td>\n      <td>498</td>\n      <td>6690</td>\n      <td>13.43 : 1</td>\n    </tr>\n    <tr>\n      <td>정원내</td>\n      <td>특성화고</td>\n      <td>특성화고</td>\n      <td>137</td>\n      <td>1004</td>\n      <td>7.33 : 1</td>\n    </tr>\n    <tr>\n      <td>정원내</td>\n      <td>특기자(어학)</td>\n      <td>특기자(어학)</td>\n      <td>9</td>\n      <td>185</td>\n      <td>20.56 : 1</td>\n    </tr>\n    <tr>\n      <td>소계</td>\n      <td>소계</td>\n      <td>소계</td>\n      <td>644</td>\n      <td>7879</td>\n      <td>12.23 : 1</td>\n    </tr>\n    <tr>\n      <td>정원외</td>\n      <td>농어촌</td>\n      <td>농어촌</td>\n      <td>30</td>\n      <td>207</td>\n      <td>6.90 : 1</td>\n    </tr>\n    <tr>\n      <td>정원외</td>\n      <td>수급자</td>\n      <td>수급자</td>\n      <td>53</td>\n      <td>352</td>\n      <td>6.64 : 1</td>\n    </tr>\n    <tr>\n      <td>정원외</td>\n      <td>전문대졸 이상</td>\n      <td>전문대졸 이상</td>\n      <td>제한없음</td>\n      <td>51</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <td>정원외</td>\n      <td>북한이탈주민</td>\n      <td>북한이탈주민</td>\n      <td>제한없음</td>\n      <td>0</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <td>지원인원 총계</td>\n      <td>지원인원 총계</td>\n      <td>지원인원 총계</td>\n      <td>지원인원 총계</td>\n      <td>8489</td>\n      <td>NaN</td>\n    </tr>\n  </tbody>\n</table>",
-          "<table >\n  <thead>\n    <tr >\n      <th>계열</th>\n      <th>모집단위</th>\n      <th>모집인원</th>\n      <th>지원인원</th>\n      <th>경쟁률</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>공학</td>\n      <td>자유전공학부</td>\n      <td>12</td>\n      <td>174</td>\n      <td>14.50 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>기계공학과</td>\n      <td>18</td>\n      <td>138</td>\n      <td>7.67 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>기계설계공학과</td>\n      <td>18</td>\n      <td>126</td>\n      <td>7.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>로봇자동화공학과</td>\n      <td>16</td>\n      <td>104</td>\n      <td>6.50 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>반도체기계정비학과</td>\n      <td>9</td>\n      <td>87</td>\n      <td>9.67 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>조선기계공학과</td>\n      <td>18</td>\n      <td>245</td>\n      <td>13.61 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>항공기계공학과</td>\n      <td>18</td>\n      <td>232</td>\n      <td>12.89 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>자동차공학과</td>\n      <td>15</td>\n      <td>117</td>\n      <td>7.80 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>전기공학과</td>\n      <td>16</td>\n      <td>202</td>\n      <td>12.63 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>전자공학과</td>\n      <td>18</td>\n      <td>152</td>\n      <td>8.44 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>정보통신공학과</td>\n      <td>24</td>\n      <td>136</td>\n      <td>5.67 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>컴퓨터정보공학과</td>\n      <td>19</td>\n      <td>130</td>\n      <td>6.84 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>컴퓨터시스템공학과</td>\n      <td>18</td>\n      <td>120</td>\n      <td>6.67 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>디지털마케팅공학과</td>\n      <td>12</td>\n      <td>97</td>\n      <td>8.08 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>건설환경공학과</td>\n      <td>18</td>\n      <td>112</td>\n      <td>6.22 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>공간정보빅데이터학과</td>\n      <td>16</td>\n      <td>155</td>\n      <td>9.69 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>화학생명공학과</td>\n      <td>24</td>\n      <td>155</td>\n      <td>6.46 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>재료공학과</td>\n      <td>18</td>\n      <td>195</td>\n      <td>10.83 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>건축학과</td>\n      <td>18</td>\n      <td>138</td>\n      <td>7.67 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>실내건축학과</td>\n      <td>18</td>\n      <td>126</td>\n      <td>7.00 : 1</td>\n    </tr>\n    <tr>\n      <td>예체능</td>\n      <td>산업디자인학과</td>\n      <td>15</td>\n      <td>153</td>\n      <td>10.20 : 1</td>\n    </tr>\n    <tr>\n      <td>예체능</td>\n      <td>패션디자인학과</td>\n      <td>14</td>\n      <td>114</td>\n      <td>8.14 : 1</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>항공운항과</td>\n      <td>32</td>\n      <td>2250</td>\n      <td>70.31 : 1</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>항공경영학과</td>\n      <td>18</td>\n      <td>343</td>\n      <td>19.06 : 1</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>관광경영학과</td>\n      <td>18</td>\n      <td>342</td>\n      <td>19.00 : 1</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>경영비서학과</td>\n      <td>18</td>\n      <td>143</td>\n      <td>7.94 : 1</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>호텔경영학과</td>\n      <td>16</td>\n      <td>162</td>\n      <td>10.13 : 1</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>물류시스템학과</td>\n      <td>12</td>\n      <td>109</td>\n      <td>9.08 : 1</td>\n    </tr>\n    <tr>\n      <td>예체능</td>\n      <td>스포츠헬스케어학과</td>\n      <td>12</td>\n      <td>133</td>\n      <td>11.08 : 1</td>\n    </tr>\n    <tr>\n      <td>총계</td>\n      <td>총계</td>\n      <td>498</td>\n      <td>6690</td>\n      <td>13.43 : 1</td>\n    </tr>\n  </tbody>\n</table>",
-          "<table >\n  <thead>\n    <tr >\n      <th>계열</th>\n      <th>모집단위</th>\n      <th>모집인원</th>\n      <th>지원인원</th>\n      <th>경쟁률</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>공학</td>\n      <td>자유전공학부</td>\n      <td>4</td>\n      <td>22</td>\n      <td>5.50 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>기계공학과</td>\n      <td>5</td>\n      <td>34</td>\n      <td>6.80 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>기계설계공학과</td>\n      <td>5</td>\n      <td>23</td>\n      <td>4.60 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>로봇자동화공학과</td>\n      <td>4</td>\n      <td>18</td>\n      <td>4.50 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>반도체기계정비학과</td>\n      <td>6</td>\n      <td>36</td>\n      <td>6.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>조선기계공학과</td>\n      <td>5</td>\n      <td>25</td>\n      <td>5.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>항공기계공학과</td>\n      <td>8</td>\n      <td>50</td>\n      <td>6.25 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>자동차공학과</td>\n      <td>8</td>\n      <td>41</td>\n      <td>5.13 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>전기공학과</td>\n      <td>5</td>\n      <td>59</td>\n      <td>11.80 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>전자공학과</td>\n      <td>5</td>\n      <td>37</td>\n      <td>7.40 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>정보통신공학과</td>\n      <td>6</td>\n      <td>30</td>\n      <td>5.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>컴퓨터정보공학과</td>\n      <td>4</td>\n      <td>20</td>\n      <td>5.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>컴퓨터시스템공학과</td>\n      <td>5</td>\n      <td>23</td>\n      <td>4.60 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>디지털마케팅공학과</td>\n      <td>3</td>\n      <td>17</td>\n      <td>5.67 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>건설환경공학과</td>\n      <td>4</td>\n      <td>16</td>\n      <td>4.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>공간정보빅데이터학과</td>\n      <td>4</td>\n      <td>20</td>\n      <td>5.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>화학생명공학과</td>\n      <td>6</td>\n      <td>31</td>\n      <td>5.17 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>재료공학과</td>\n      <td>4</td>\n      <td>21</td>\n      <td>5.25 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>건축학과</td>\n      <td>5</td>\n      <td>24</td>\n      <td>4.80 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>실내건축학과</td>\n      <td>5</td>\n      <td>35</td>\n      <td>7.00 : 1</td>\n    </tr>\n    <tr>\n      <td>예체능</td>\n      <td>산업디자인학과</td>\n      <td>4</td>\n      <td>29</td>\n      <td>7.25 : 1</td>\n    </tr>\n    <tr>\n      <td>예체능</td>\n      <td>패션디자인학과</td>\n      <td>4</td>\n      <td>33</td>\n      <td>8.25 : 1</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>항공운항과</td>\n      <td>3</td>\n      <td>159</td>\n      <td>53.00 : 1</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>항공경영학과</td>\n      <td>5</td>\n      <td>48</td>\n      <td>9.60 : 1</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>관광경영학과</td>\n      <td>4</td>\n      <td>52</td>\n      <td>13.00 : 1</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>경영비서학과</td>\n      <td>4</td>\n      <td>34</td>\n      <td>8.50 : 1</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>호텔경영학과</td>\n      <td>6</td>\n      <td>27</td>\n      <td>4.50 : 1</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>물류시스템학과</td>\n      <td>3</td>\n      <td>12</td>\n      <td>4.00 : 1</td>\n    </tr>\n    <tr>\n      <td>예체능</td>\n      <td>스포츠헬스케어학과</td>\n      <td>3</td>\n      <td>28</td>\n      <td>9.33 : 1</td>\n    </tr>\n    <tr>\n      <td>총계</td>\n      <td>총계</td>\n      <td>137</td>\n      <td>1004</td>\n      <td>7.33 : 1</td>\n    </tr>\n  </tbody>\n</table>",
-          "<table >\n  <thead>\n    <tr >\n      <th>계열</th>\n      <th>모집단위</th>\n      <th>모집인원</th>\n      <th>지원인원</th>\n      <th>경쟁률</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>공학</td>\n      <td>항공기계공학과</td>\n      <td>4</td>\n      <td>14</td>\n      <td>3.50 : 1</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>항공운항과</td>\n      <td>5</td>\n      <td>171</td>\n      <td>34.20 : 1</td>\n    </tr>\n    <tr>\n      <td>총계</td>\n      <td>총계</td>\n      <td>9</td>\n      <td>185</td>\n      <td>20.56 : 1</td>\n    </tr>\n  </tbody>\n</table>",
-          "<table >\n  <thead>\n    <tr >\n      <th>계열</th>\n      <th>모집단위</th>\n      <th>모집인원</th>\n      <th>지원인원</th>\n      <th>경쟁률</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>공학</td>\n      <td>기계공학과</td>\n      <td>1</td>\n      <td>8</td>\n      <td>8.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>기계설계공학과</td>\n      <td>1</td>\n      <td>3</td>\n      <td>3.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>로봇자동화공학과</td>\n      <td>1</td>\n      <td>4</td>\n      <td>4.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>반도체기계정비학과</td>\n      <td>1</td>\n      <td>4</td>\n      <td>4.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>조선기계공학과</td>\n      <td>1</td>\n      <td>5</td>\n      <td>5.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>항공기계공학과</td>\n      <td>1</td>\n      <td>4</td>\n      <td>4.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>자동차공학과</td>\n      <td>1</td>\n      <td>9</td>\n      <td>9.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>전기공학과</td>\n      <td>1</td>\n      <td>5</td>\n      <td>5.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>전자공학과</td>\n      <td>1</td>\n      <td>3</td>\n      <td>3.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>정보통신공학과</td>\n      <td>1</td>\n      <td>2</td>\n      <td>2.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>컴퓨터정보공학과</td>\n      <td>1</td>\n      <td>2</td>\n      <td>2.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>컴퓨터시스템공학과</td>\n      <td>1</td>\n      <td>4</td>\n      <td>4.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>디지털마케팅공학과</td>\n      <td>1</td>\n      <td>2</td>\n      <td>2.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>건설환경공학과</td>\n      <td>1</td>\n      <td>2</td>\n      <td>2.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>공간정보빅데이터학과</td>\n      <td>1</td>\n      <td>2</td>\n      <td>2.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>화학생명공학과</td>\n      <td>1</td>\n      <td>2</td>\n      <td>2.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>재료공학과</td>\n      <td>1</td>\n      <td>2</td>\n      <td>2.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>건축학과</td>\n      <td>1</td>\n      <td>1</td>\n      <td>1.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>실내건축학과</td>\n      <td>1</td>\n      <td>6</td>\n      <td>6.00 : 1</td>\n    </tr>\n    <tr>\n      <td>예체능</td>\n      <td>산업디자인학과</td>\n      <td>1</td>\n      <td>4</td>\n      <td>4.00 : 1</td>\n    </tr>\n    <tr>\n      <td>예체능</td>\n      <td>패션디자인학과</td>\n      <td>1</td>\n      <td>4</td>\n      <td>4.00 : 1</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>항공운항과</td>\n      <td>3</td>\n      <td>104</td>\n      <td>34.67 : 1</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>항공경영학과</td>\n      <td>1</td>\n      <td>9</td>\n      <td>9.00 : 1</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>관광경영학과</td>\n      <td>1</td>\n      <td>3</td>\n      <td>3.00 : 1</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>경영비서학과</td>\n      <td>1</td>\n      <td>2</td>\n      <td>2.00 : 1</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>호텔경영학과</td>\n      <td>1</td>\n      <td>4</td>\n      <td>4.00 : 1</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>물류시스템학과</td>\n      <td>1</td>\n      <td>2</td>\n      <td>2.00 : 1</td>\n    </tr>\n    <tr>\n      <td>예체능</td>\n      <td>스포츠헬스케어학과</td>\n      <td>1</td>\n      <td>5</td>\n      <td>5.00 : 1</td>\n    </tr>\n    <tr>\n      <td>총계</td>\n      <td>총계</td>\n      <td>30</td>\n      <td>207</td>\n      <td>6.90 : 1</td>\n    </tr>\n  </tbody>\n</table>",
-          "<table >\n  <thead>\n    <tr >\n      <th>계열</th>\n      <th>모집단위</th>\n      <th>모집인원</th>\n      <th>지원인원</th>\n      <th>경쟁률</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>공학</td>\n      <td>기계공학과</td>\n      <td>2</td>\n      <td>7</td>\n      <td>3.50 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>기계설계공학과</td>\n      <td>2</td>\n      <td>4</td>\n      <td>2.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>로봇자동화공학과</td>\n      <td>2</td>\n      <td>4</td>\n      <td>2.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>반도체기계정비학과</td>\n      <td>1</td>\n      <td>6</td>\n      <td>6.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>조선기계공학과</td>\n      <td>2</td>\n      <td>7</td>\n      <td>3.50 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>항공기계공학과</td>\n      <td>2</td>\n      <td>21</td>\n      <td>10.50 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>자동차공학과</td>\n      <td>2</td>\n      <td>9</td>\n      <td>4.50 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>전기공학과</td>\n      <td>2</td>\n      <td>9</td>\n      <td>4.50 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>전자공학과</td>\n      <td>2</td>\n      <td>9</td>\n      <td>4.50 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>정보통신공학과</td>\n      <td>2</td>\n      <td>5</td>\n      <td>2.50 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>컴퓨터정보공학과</td>\n      <td>2</td>\n      <td>10</td>\n      <td>5.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>컴퓨터시스템공학과</td>\n      <td>2</td>\n      <td>4</td>\n      <td>2.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>디지털마케팅공학과</td>\n      <td>2</td>\n      <td>13</td>\n      <td>6.50 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>건설환경공학과</td>\n      <td>2</td>\n      <td>3</td>\n      <td>1.50 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>공간정보빅데이터학과</td>\n      <td>2</td>\n      <td>6</td>\n      <td>3.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>화학생명공학과</td>\n      <td>2</td>\n      <td>9</td>\n      <td>4.50 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>재료공학과</td>\n      <td>2</td>\n      <td>5</td>\n      <td>2.50 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>건축학과</td>\n      <td>2</td>\n      <td>9</td>\n      <td>4.50 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>실내건축학과</td>\n      <td>2</td>\n      <td>14</td>\n      <td>7.00 : 1</td>\n    </tr>\n    <tr>\n      <td>예체능</td>\n      <td>산업디자인학과</td>\n      <td>2</td>\n      <td>8</td>\n      <td>4.00 : 1</td>\n    </tr>\n    <tr>\n      <td>예체능</td>\n      <td>패션디자인학과</td>\n      <td>2</td>\n      <td>7</td>\n      <td>3.50 : 1</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>항공운항과</td>\n      <td>3</td>\n      <td>118</td>\n      <td>39.33 : 1</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>항공경영학과</td>\n      <td>2</td>\n      <td>12</td>\n      <td>6.00 : 1</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>관광경영학과</td>\n      <td>1</td>\n      <td>18</td>\n      <td>18.00 : 1</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>경영비서학과</td>\n      <td>1</td>\n      <td>9</td>\n      <td>9.00 : 1</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>호텔경영학과</td>\n      <td>1</td>\n      <td>6</td>\n      <td>6.00 : 1</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>물류시스템학과</td>\n      <td>2</td>\n      <td>6</td>\n      <td>3.00 : 1</td>\n    </tr>\n    <tr>\n      <td>예체능</td>\n      <td>스포츠헬스케어학과</td>\n      <td>2</td>\n      <td>14</td>\n      <td>7.00 : 1</td>\n    </tr>\n    <tr>\n      <td>총계</td>\n      <td>총계</td>\n      <td>53</td>\n      <td>352</td>\n      <td>6.64 : 1</td>\n    </tr>\n  </tbody>\n</table>",
-          "<table >\n  <thead>\n    <tr >\n      <th>계열</th>\n      <th>학과</th>\n      <th>전문대졸</th>\n      <th>북한이탈주민</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>공학</td>\n      <td>기계공학과</td>\n      <td>4</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>기계설계공학과</td>\n      <td>1</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>로봇자동화공학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>반도체기계정비학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>조선기계공학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>항공기계공학과</td>\n      <td>3</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>자동차공학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>전기공학과</td>\n      <td>5</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>전자공학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>정보통신공학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>컴퓨터정보공학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>컴퓨터시스템공학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>디지털마케팅공학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>건설환경공학과</td>\n      <td>3</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>공간정보빅데이터학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>화학생명공학과</td>\n      <td>2</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>재료공학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>건축학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>실내건축학과</td>\n      <td>1</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>예체능</td>\n      <td>산업디자인학과</td>\n      <td>2</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>예체능</td>\n      <td>패션디자인학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>항공운항과</td>\n      <td>24</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>항공경영학과</td>\n      <td>3</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>관광경영학과</td>\n      <td>1</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>경영비서학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>호텔경영학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>물류시스템학과</td>\n      <td>1</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>예체능</td>\n      <td>스포츠헬스케어학과</td>\n      <td>1</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>합계</td>\n      <td>합계</td>\n      <td>51</td>\n      <td>0</td>\n    </tr>\n  </tbody>\n</table>"
+          "<table >\n  <thead>\n    <tr >\n      <th>구분</th>\n      <th>전형명</th>\n      <th>전형명.1</th>\n      <th>모집인원</th>\n      <th>지원인원</th>\n      <th>경쟁률</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>정원내</td>\n      <td>일반고</td>\n      <td>일반고</td>\n      <td>1377</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>정원내</td>\n      <td>특성화고</td>\n      <td>특성화고</td>\n      <td>367</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>정원내</td>\n      <td>특기자(어학)</td>\n      <td>특기자(어학)</td>\n      <td>21</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>정원내</td>\n      <td>연계교육</td>\n      <td>연계교육</td>\n      <td>5</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>소계</td>\n      <td>소계</td>\n      <td>소계</td>\n      <td>1770</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>정원외</td>\n      <td>전문대졸 이상</td>\n      <td>전문대졸 이상</td>\n      <td>제한없음</td>\n      <td>0</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <td>정원외</td>\n      <td>북한이탈주민</td>\n      <td>북한이탈주민</td>\n      <td>제한없음</td>\n      <td>0</td>\n      <td>NaN</td>\n    </tr>\n    <tr>\n      <td>지원인원 총계</td>\n      <td>지원인원 총계</td>\n      <td>지원인원 총계</td>\n      <td>지원인원 총계</td>\n      <td>0</td>\n      <td>NaN</td>\n    </tr>\n  </tbody>\n</table>",
+          "<table >\n  <thead>\n    <tr >\n      <th>계열</th>\n      <th>모집단위</th>\n      <th>모집인원</th>\n      <th>지원인원</th>\n      <th>경쟁률</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>NaN</td>\n      <td>자유전공학부</td>\n      <td>20</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>기계공학과</td>\n      <td>50</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>기계설계공학과</td>\n      <td>50</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>로봇자동화공학과</td>\n      <td>47</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>반도체기계공학과</td>\n      <td>29</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>조선기계공학과</td>\n      <td>50</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>항공기계공학과</td>\n      <td>50</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>자동차공학과</td>\n      <td>41</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>전기공학과</td>\n      <td>49</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>전자공학과</td>\n      <td>48</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>정보통신공학과</td>\n      <td>51</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>AI소프트웨어학과</td>\n      <td>53</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>AI컴퓨터학과</td>\n      <td>52</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>디지털마케팅공학과</td>\n      <td>37</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>건설환경공학과</td>\n      <td>51</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>공간정보빅데이터학과</td>\n      <td>46</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>화학생명공학과</td>\n      <td>67</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>재료공학과</td>\n      <td>50</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>건축학과</td>\n      <td>52</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>실내건축학과</td>\n      <td>48</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>예체능</td>\n      <td>산업디자인학과</td>\n      <td>40</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>예체능</td>\n      <td>패션디자인학과</td>\n      <td>42</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>항공운항과</td>\n      <td>92</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>항공경영학과</td>\n      <td>51</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>관광경영학과</td>\n      <td>49</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>경영비서학과</td>\n      <td>51</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>호텔경영학과</td>\n      <td>43</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>물류시스템학과</td>\n      <td>34</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>예체능</td>\n      <td>스포츠헬스케어학과</td>\n      <td>34</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>총계</td>\n      <td>총계</td>\n      <td>1377</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n  </tbody>\n</table>",
+          "<table >\n  <thead>\n    <tr >\n      <th>계열</th>\n      <th>모집단위</th>\n      <th>모집인원</th>\n      <th>지원인원</th>\n      <th>경쟁률</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>NaN</td>\n      <td>자유전공학부</td>\n      <td>4</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>기계공학과</td>\n      <td>13</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>기계설계공학과</td>\n      <td>13</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>로봇자동화공학과</td>\n      <td>12</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>반도체기계공학과</td>\n      <td>13</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>조선기계공학과</td>\n      <td>13</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>항공기계공학과</td>\n      <td>15</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>자동차공학과</td>\n      <td>22</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>전기공학과</td>\n      <td>15</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>전자공학과</td>\n      <td>15</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>정보통신공학과</td>\n      <td>12</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>AI소프트웨어학과</td>\n      <td>13</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>AI컴퓨터학과</td>\n      <td>13</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>디지털마케팅공학과</td>\n      <td>10</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>건설환경공학과</td>\n      <td>13</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>공간정보빅데이터학과</td>\n      <td>11</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>화학생명공학과</td>\n      <td>17</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>재료공학과</td>\n      <td>13</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>건축학과</td>\n      <td>13</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>실내건축학과</td>\n      <td>16</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>예체능</td>\n      <td>산업디자인학과</td>\n      <td>13</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>예체능</td>\n      <td>패션디자인학과</td>\n      <td>11</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>항공운항과</td>\n      <td>8</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>항공경영학과</td>\n      <td>13</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>관광경영학과</td>\n      <td>12</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>경영비서학과</td>\n      <td>10</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>호텔경영학과</td>\n      <td>18</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>물류시스템학과</td>\n      <td>8</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>예체능</td>\n      <td>스포츠헬스케어학과</td>\n      <td>8</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>총계</td>\n      <td>총계</td>\n      <td>367</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n  </tbody>\n</table>",
+          "<table >\n  <thead>\n    <tr >\n      <th>계열</th>\n      <th>모집단위</th>\n      <th>모집인원</th>\n      <th>지원인원</th>\n      <th>경쟁률</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>공학</td>\n      <td>항공기계공학과</td>\n      <td>9</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>항공운항과</td>\n      <td>12</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>총계</td>\n      <td>총계</td>\n      <td>21</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n  </tbody>\n</table>",
+          "<table >\n  <thead>\n    <tr >\n      <th>계열</th>\n      <th>모집단위</th>\n      <th>모집인원</th>\n      <th>지원인원</th>\n      <th>경쟁률</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>공학</td>\n      <td>항공기계공학과</td>\n      <td>5</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n    <tr>\n      <td>총계</td>\n      <td>총계</td>\n      <td>5</td>\n      <td>0</td>\n      <td>0.00 : 1</td>\n    </tr>\n  </tbody>\n</table>",
+          "<table >\n  <thead>\n    <tr >\n      <th>계열</th>\n      <th>학과</th>\n      <th>전문대졸</th>\n      <th>북한이탈주민</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <td>공학</td>\n      <td>기계공학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>기계설계공학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>로봇자동화공학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>반도체기계공학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>조선기계공학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>항공기계공학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>자동차공학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>전기공학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>전자공학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>정보통신공학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>AI소프트웨어학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>AI컴퓨터학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>디지털마케팅공학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>건설환경공학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>공간정보빅데이터학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>화학생명공학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>재료공학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>건축학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>공학</td>\n      <td>실내건축학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>예체능</td>\n      <td>산업디자인학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>예체능</td>\n      <td>패션디자인학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>항공운항과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>항공경영학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>관광경영학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>경영비서학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>호텔경영학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>인문사회</td>\n      <td>물류시스템학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>예체능</td>\n      <td>스포츠헬스케어학과</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n    <tr>\n      <td>합계</td>\n      <td>합계</td>\n      <td>0</td>\n      <td>0</td>\n    </tr>\n  </tbody>\n</table>"
         ],
         "parsed_departments": [
           {
             "table_title": "전형별 경쟁률 현황",
             "department_name": "일반고",
-            "admission_count": "498",
-            "applicant_count": "6690",
-            "competition_ratio": "13.43 : 1"
+            "admission_count": "1377",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "전형별 경쟁률 현황",
             "department_name": "특성화고",
-            "admission_count": "137",
-            "applicant_count": "1004",
-            "competition_ratio": "7.33 : 1"
+            "admission_count": "367",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "전형별 경쟁률 현황",
             "department_name": "특기자(어학)",
-            "admission_count": "9",
-            "applicant_count": "185",
-            "competition_ratio": "20.56 : 1"
+            "admission_count": "21",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "전형별 경쟁률 현황",
-            "department_name": "농어촌",
-            "admission_count": "30",
-            "applicant_count": "207",
-            "competition_ratio": "6.90 : 1"
-          },
-          {
-            "table_title": "전형별 경쟁률 현황",
-            "department_name": "수급자",
-            "admission_count": "53",
-            "applicant_count": "352",
-            "competition_ratio": "6.64 : 1"
+            "department_name": "연계교육",
+            "admission_count": "5",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "전형별 경쟁률 현황",
             "department_name": "전문대졸 이상",
             "admission_count": "제한없음",
-            "applicant_count": "51",
+            "applicant_count": "0",
             "competition_ratio": "nan"
           },
           {
@@ -12278,814 +11877,429 @@
           {
             "table_title": "일반고 경쟁률 현황",
             "department_name": "자유전공학부",
-            "admission_count": "12",
-            "applicant_count": "174",
-            "competition_ratio": "14.50 : 1"
+            "admission_count": "20",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "일반고 경쟁률 현황",
             "department_name": "기계공학과",
-            "admission_count": "18",
-            "applicant_count": "138",
-            "competition_ratio": "7.67 : 1"
+            "admission_count": "50",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "일반고 경쟁률 현황",
             "department_name": "기계설계공학과",
-            "admission_count": "18",
-            "applicant_count": "126",
-            "competition_ratio": "7.00 : 1"
+            "admission_count": "50",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "일반고 경쟁률 현황",
             "department_name": "로봇자동화공학과",
-            "admission_count": "16",
-            "applicant_count": "104",
-            "competition_ratio": "6.50 : 1"
+            "admission_count": "47",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "일반고 경쟁률 현황",
-            "department_name": "반도체기계정비학과",
-            "admission_count": "9",
-            "applicant_count": "87",
-            "competition_ratio": "9.67 : 1"
+            "department_name": "반도체기계공학과",
+            "admission_count": "29",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "일반고 경쟁률 현황",
             "department_name": "조선기계공학과",
-            "admission_count": "18",
-            "applicant_count": "245",
-            "competition_ratio": "13.61 : 1"
+            "admission_count": "50",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "일반고 경쟁률 현황",
             "department_name": "항공기계공학과",
-            "admission_count": "18",
-            "applicant_count": "232",
-            "competition_ratio": "12.89 : 1"
+            "admission_count": "50",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "일반고 경쟁률 현황",
             "department_name": "자동차공학과",
-            "admission_count": "15",
-            "applicant_count": "117",
-            "competition_ratio": "7.80 : 1"
+            "admission_count": "41",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "일반고 경쟁률 현황",
             "department_name": "전기공학과",
-            "admission_count": "16",
-            "applicant_count": "202",
-            "competition_ratio": "12.63 : 1"
+            "admission_count": "49",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "일반고 경쟁률 현황",
             "department_name": "전자공학과",
-            "admission_count": "18",
-            "applicant_count": "152",
-            "competition_ratio": "8.44 : 1"
+            "admission_count": "48",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "일반고 경쟁률 현황",
             "department_name": "정보통신공학과",
-            "admission_count": "24",
-            "applicant_count": "136",
-            "competition_ratio": "5.67 : 1"
+            "admission_count": "51",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "일반고 경쟁률 현황",
-            "department_name": "컴퓨터정보공학과",
-            "admission_count": "19",
-            "applicant_count": "130",
-            "competition_ratio": "6.84 : 1"
+            "department_name": "AI소프트웨어학과",
+            "admission_count": "53",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "일반고 경쟁률 현황",
-            "department_name": "컴퓨터시스템공학과",
-            "admission_count": "18",
-            "applicant_count": "120",
-            "competition_ratio": "6.67 : 1"
+            "department_name": "AI컴퓨터학과",
+            "admission_count": "52",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "일반고 경쟁률 현황",
             "department_name": "디지털마케팅공학과",
-            "admission_count": "12",
-            "applicant_count": "97",
-            "competition_ratio": "8.08 : 1"
+            "admission_count": "37",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "일반고 경쟁률 현황",
             "department_name": "건설환경공학과",
-            "admission_count": "18",
-            "applicant_count": "112",
-            "competition_ratio": "6.22 : 1"
+            "admission_count": "51",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "일반고 경쟁률 현황",
             "department_name": "공간정보빅데이터학과",
-            "admission_count": "16",
-            "applicant_count": "155",
-            "competition_ratio": "9.69 : 1"
+            "admission_count": "46",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "일반고 경쟁률 현황",
             "department_name": "화학생명공학과",
-            "admission_count": "24",
-            "applicant_count": "155",
-            "competition_ratio": "6.46 : 1"
+            "admission_count": "67",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "일반고 경쟁률 현황",
             "department_name": "재료공학과",
-            "admission_count": "18",
-            "applicant_count": "195",
-            "competition_ratio": "10.83 : 1"
+            "admission_count": "50",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "일반고 경쟁률 현황",
             "department_name": "건축학과",
-            "admission_count": "18",
-            "applicant_count": "138",
-            "competition_ratio": "7.67 : 1"
+            "admission_count": "52",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "일반고 경쟁률 현황",
             "department_name": "실내건축학과",
-            "admission_count": "18",
-            "applicant_count": "126",
-            "competition_ratio": "7.00 : 1"
+            "admission_count": "48",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "일반고 경쟁률 현황",
             "department_name": "산업디자인학과",
-            "admission_count": "15",
-            "applicant_count": "153",
-            "competition_ratio": "10.20 : 1"
+            "admission_count": "40",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "일반고 경쟁률 현황",
             "department_name": "패션디자인학과",
-            "admission_count": "14",
-            "applicant_count": "114",
-            "competition_ratio": "8.14 : 1"
+            "admission_count": "42",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "일반고 경쟁률 현황",
             "department_name": "항공운항과",
-            "admission_count": "32",
-            "applicant_count": "2250",
-            "competition_ratio": "70.31 : 1"
+            "admission_count": "92",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "일반고 경쟁률 현황",
             "department_name": "항공경영학과",
-            "admission_count": "18",
-            "applicant_count": "343",
-            "competition_ratio": "19.06 : 1"
+            "admission_count": "51",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "일반고 경쟁률 현황",
             "department_name": "관광경영학과",
-            "admission_count": "18",
-            "applicant_count": "342",
-            "competition_ratio": "19.00 : 1"
+            "admission_count": "49",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "일반고 경쟁률 현황",
             "department_name": "경영비서학과",
-            "admission_count": "18",
-            "applicant_count": "143",
-            "competition_ratio": "7.94 : 1"
+            "admission_count": "51",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "일반고 경쟁률 현황",
             "department_name": "호텔경영학과",
-            "admission_count": "16",
-            "applicant_count": "162",
-            "competition_ratio": "10.13 : 1"
+            "admission_count": "43",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "일반고 경쟁률 현황",
             "department_name": "물류시스템학과",
-            "admission_count": "12",
-            "applicant_count": "109",
-            "competition_ratio": "9.08 : 1"
+            "admission_count": "34",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "일반고 경쟁률 현황",
             "department_name": "스포츠헬스케어학과",
-            "admission_count": "12",
-            "applicant_count": "133",
-            "competition_ratio": "11.08 : 1"
+            "admission_count": "34",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "특성화고 경쟁률 현황",
             "department_name": "자유전공학부",
             "admission_count": "4",
-            "applicant_count": "22",
-            "competition_ratio": "5.50 : 1"
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "특성화고 경쟁률 현황",
             "department_name": "기계공학과",
-            "admission_count": "5",
-            "applicant_count": "34",
-            "competition_ratio": "6.80 : 1"
+            "admission_count": "13",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "특성화고 경쟁률 현황",
             "department_name": "기계설계공학과",
-            "admission_count": "5",
-            "applicant_count": "23",
-            "competition_ratio": "4.60 : 1"
+            "admission_count": "13",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "특성화고 경쟁률 현황",
             "department_name": "로봇자동화공학과",
-            "admission_count": "4",
-            "applicant_count": "18",
-            "competition_ratio": "4.50 : 1"
+            "admission_count": "12",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "특성화고 경쟁률 현황",
-            "department_name": "반도체기계정비학과",
-            "admission_count": "6",
-            "applicant_count": "36",
-            "competition_ratio": "6.00 : 1"
+            "department_name": "반도체기계공학과",
+            "admission_count": "13",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "특성화고 경쟁률 현황",
             "department_name": "조선기계공학과",
-            "admission_count": "5",
-            "applicant_count": "25",
-            "competition_ratio": "5.00 : 1"
+            "admission_count": "13",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "특성화고 경쟁률 현황",
             "department_name": "항공기계공학과",
-            "admission_count": "8",
-            "applicant_count": "50",
-            "competition_ratio": "6.25 : 1"
+            "admission_count": "15",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "특성화고 경쟁률 현황",
             "department_name": "자동차공학과",
-            "admission_count": "8",
-            "applicant_count": "41",
-            "competition_ratio": "5.13 : 1"
+            "admission_count": "22",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "특성화고 경쟁률 현황",
             "department_name": "전기공학과",
-            "admission_count": "5",
-            "applicant_count": "59",
-            "competition_ratio": "11.80 : 1"
+            "admission_count": "15",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "특성화고 경쟁률 현황",
             "department_name": "전자공학과",
-            "admission_count": "5",
-            "applicant_count": "37",
-            "competition_ratio": "7.40 : 1"
+            "admission_count": "15",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "특성화고 경쟁률 현황",
             "department_name": "정보통신공학과",
-            "admission_count": "6",
-            "applicant_count": "30",
-            "competition_ratio": "5.00 : 1"
+            "admission_count": "12",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "특성화고 경쟁률 현황",
-            "department_name": "컴퓨터정보공학과",
-            "admission_count": "4",
-            "applicant_count": "20",
-            "competition_ratio": "5.00 : 1"
+            "department_name": "AI소프트웨어학과",
+            "admission_count": "13",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "특성화고 경쟁률 현황",
-            "department_name": "컴퓨터시스템공학과",
-            "admission_count": "5",
-            "applicant_count": "23",
-            "competition_ratio": "4.60 : 1"
+            "department_name": "AI컴퓨터학과",
+            "admission_count": "13",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "특성화고 경쟁률 현황",
             "department_name": "디지털마케팅공학과",
-            "admission_count": "3",
-            "applicant_count": "17",
-            "competition_ratio": "5.67 : 1"
+            "admission_count": "10",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "특성화고 경쟁률 현황",
             "department_name": "건설환경공학과",
-            "admission_count": "4",
-            "applicant_count": "16",
-            "competition_ratio": "4.00 : 1"
+            "admission_count": "13",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "특성화고 경쟁률 현황",
             "department_name": "공간정보빅데이터학과",
-            "admission_count": "4",
-            "applicant_count": "20",
-            "competition_ratio": "5.00 : 1"
+            "admission_count": "11",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "특성화고 경쟁률 현황",
             "department_name": "화학생명공학과",
-            "admission_count": "6",
-            "applicant_count": "31",
-            "competition_ratio": "5.17 : 1"
+            "admission_count": "17",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "특성화고 경쟁률 현황",
             "department_name": "재료공학과",
-            "admission_count": "4",
-            "applicant_count": "21",
-            "competition_ratio": "5.25 : 1"
+            "admission_count": "13",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "특성화고 경쟁률 현황",
             "department_name": "건축학과",
-            "admission_count": "5",
-            "applicant_count": "24",
-            "competition_ratio": "4.80 : 1"
+            "admission_count": "13",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "특성화고 경쟁률 현황",
             "department_name": "실내건축학과",
-            "admission_count": "5",
-            "applicant_count": "35",
-            "competition_ratio": "7.00 : 1"
+            "admission_count": "16",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "특성화고 경쟁률 현황",
             "department_name": "산업디자인학과",
-            "admission_count": "4",
-            "applicant_count": "29",
-            "competition_ratio": "7.25 : 1"
+            "admission_count": "13",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "특성화고 경쟁률 현황",
             "department_name": "패션디자인학과",
-            "admission_count": "4",
-            "applicant_count": "33",
-            "competition_ratio": "8.25 : 1"
+            "admission_count": "11",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "특성화고 경쟁률 현황",
             "department_name": "항공운항과",
-            "admission_count": "3",
-            "applicant_count": "159",
-            "competition_ratio": "53.00 : 1"
+            "admission_count": "8",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "특성화고 경쟁률 현황",
             "department_name": "항공경영학과",
-            "admission_count": "5",
-            "applicant_count": "48",
-            "competition_ratio": "9.60 : 1"
+            "admission_count": "13",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "특성화고 경쟁률 현황",
             "department_name": "관광경영학과",
-            "admission_count": "4",
-            "applicant_count": "52",
-            "competition_ratio": "13.00 : 1"
+            "admission_count": "12",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "특성화고 경쟁률 현황",
             "department_name": "경영비서학과",
-            "admission_count": "4",
-            "applicant_count": "34",
-            "competition_ratio": "8.50 : 1"
+            "admission_count": "10",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "특성화고 경쟁률 현황",
             "department_name": "호텔경영학과",
-            "admission_count": "6",
-            "applicant_count": "27",
-            "competition_ratio": "4.50 : 1"
+            "admission_count": "18",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "특성화고 경쟁률 현황",
             "department_name": "물류시스템학과",
-            "admission_count": "3",
-            "applicant_count": "12",
-            "competition_ratio": "4.00 : 1"
+            "admission_count": "8",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "특성화고 경쟁률 현황",
             "department_name": "스포츠헬스케어학과",
-            "admission_count": "3",
-            "applicant_count": "28",
-            "competition_ratio": "9.33 : 1"
+            "admission_count": "8",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "특기자(어학) 경쟁률 현황",
             "department_name": "항공기계공학과",
-            "admission_count": "4",
-            "applicant_count": "14",
-            "competition_ratio": "3.50 : 1"
+            "admission_count": "9",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "특기자(어학) 경쟁률 현황",
             "department_name": "항공운항과",
+            "admission_count": "12",
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
+          },
+          {
+            "table_title": "연계교육 경쟁률 현황",
+            "department_name": "항공기계공학과",
             "admission_count": "5",
-            "applicant_count": "171",
-            "competition_ratio": "34.20 : 1"
-          },
-          {
-            "table_title": "농어촌 경쟁률 현황",
-            "department_name": "기계공학과",
-            "admission_count": "1",
-            "applicant_count": "8",
-            "competition_ratio": "8.00 : 1"
-          },
-          {
-            "table_title": "농어촌 경쟁률 현황",
-            "department_name": "기계설계공학과",
-            "admission_count": "1",
-            "applicant_count": "3",
-            "competition_ratio": "3.00 : 1"
-          },
-          {
-            "table_title": "농어촌 경쟁률 현황",
-            "department_name": "로봇자동화공학과",
-            "admission_count": "1",
-            "applicant_count": "4",
-            "competition_ratio": "4.00 : 1"
-          },
-          {
-            "table_title": "농어촌 경쟁률 현황",
-            "department_name": "반도체기계정비학과",
-            "admission_count": "1",
-            "applicant_count": "4",
-            "competition_ratio": "4.00 : 1"
-          },
-          {
-            "table_title": "농어촌 경쟁률 현황",
-            "department_name": "조선기계공학과",
-            "admission_count": "1",
-            "applicant_count": "5",
-            "competition_ratio": "5.00 : 1"
-          },
-          {
-            "table_title": "농어촌 경쟁률 현황",
-            "department_name": "항공기계공학과",
-            "admission_count": "1",
-            "applicant_count": "4",
-            "competition_ratio": "4.00 : 1"
-          },
-          {
-            "table_title": "농어촌 경쟁률 현황",
-            "department_name": "자동차공학과",
-            "admission_count": "1",
-            "applicant_count": "9",
-            "competition_ratio": "9.00 : 1"
-          },
-          {
-            "table_title": "농어촌 경쟁률 현황",
-            "department_name": "전기공학과",
-            "admission_count": "1",
-            "applicant_count": "5",
-            "competition_ratio": "5.00 : 1"
-          },
-          {
-            "table_title": "농어촌 경쟁률 현황",
-            "department_name": "전자공학과",
-            "admission_count": "1",
-            "applicant_count": "3",
-            "competition_ratio": "3.00 : 1"
-          },
-          {
-            "table_title": "농어촌 경쟁률 현황",
-            "department_name": "정보통신공학과",
-            "admission_count": "1",
-            "applicant_count": "2",
-            "competition_ratio": "2.00 : 1"
-          },
-          {
-            "table_title": "농어촌 경쟁률 현황",
-            "department_name": "컴퓨터정보공학과",
-            "admission_count": "1",
-            "applicant_count": "2",
-            "competition_ratio": "2.00 : 1"
-          },
-          {
-            "table_title": "농어촌 경쟁률 현황",
-            "department_name": "컴퓨터시스템공학과",
-            "admission_count": "1",
-            "applicant_count": "4",
-            "competition_ratio": "4.00 : 1"
-          },
-          {
-            "table_title": "농어촌 경쟁률 현황",
-            "department_name": "디지털마케팅공학과",
-            "admission_count": "1",
-            "applicant_count": "2",
-            "competition_ratio": "2.00 : 1"
-          },
-          {
-            "table_title": "농어촌 경쟁률 현황",
-            "department_name": "건설환경공학과",
-            "admission_count": "1",
-            "applicant_count": "2",
-            "competition_ratio": "2.00 : 1"
-          },
-          {
-            "table_title": "농어촌 경쟁률 현황",
-            "department_name": "공간정보빅데이터학과",
-            "admission_count": "1",
-            "applicant_count": "2",
-            "competition_ratio": "2.00 : 1"
-          },
-          {
-            "table_title": "농어촌 경쟁률 현황",
-            "department_name": "화학생명공학과",
-            "admission_count": "1",
-            "applicant_count": "2",
-            "competition_ratio": "2.00 : 1"
-          },
-          {
-            "table_title": "농어촌 경쟁률 현황",
-            "department_name": "재료공학과",
-            "admission_count": "1",
-            "applicant_count": "2",
-            "competition_ratio": "2.00 : 1"
-          },
-          {
-            "table_title": "농어촌 경쟁률 현황",
-            "department_name": "건축학과",
-            "admission_count": "1",
-            "applicant_count": "1",
-            "competition_ratio": "1.00 : 1"
-          },
-          {
-            "table_title": "농어촌 경쟁률 현황",
-            "department_name": "실내건축학과",
-            "admission_count": "1",
-            "applicant_count": "6",
-            "competition_ratio": "6.00 : 1"
-          },
-          {
-            "table_title": "농어촌 경쟁률 현황",
-            "department_name": "산업디자인학과",
-            "admission_count": "1",
-            "applicant_count": "4",
-            "competition_ratio": "4.00 : 1"
-          },
-          {
-            "table_title": "농어촌 경쟁률 현황",
-            "department_name": "패션디자인학과",
-            "admission_count": "1",
-            "applicant_count": "4",
-            "competition_ratio": "4.00 : 1"
-          },
-          {
-            "table_title": "농어촌 경쟁률 현황",
-            "department_name": "항공운항과",
-            "admission_count": "3",
-            "applicant_count": "104",
-            "competition_ratio": "34.67 : 1"
-          },
-          {
-            "table_title": "농어촌 경쟁률 현황",
-            "department_name": "항공경영학과",
-            "admission_count": "1",
-            "applicant_count": "9",
-            "competition_ratio": "9.00 : 1"
-          },
-          {
-            "table_title": "농어촌 경쟁률 현황",
-            "department_name": "관광경영학과",
-            "admission_count": "1",
-            "applicant_count": "3",
-            "competition_ratio": "3.00 : 1"
-          },
-          {
-            "table_title": "농어촌 경쟁률 현황",
-            "department_name": "경영비서학과",
-            "admission_count": "1",
-            "applicant_count": "2",
-            "competition_ratio": "2.00 : 1"
-          },
-          {
-            "table_title": "농어촌 경쟁률 현황",
-            "department_name": "호텔경영학과",
-            "admission_count": "1",
-            "applicant_count": "4",
-            "competition_ratio": "4.00 : 1"
-          },
-          {
-            "table_title": "농어촌 경쟁률 현황",
-            "department_name": "물류시스템학과",
-            "admission_count": "1",
-            "applicant_count": "2",
-            "competition_ratio": "2.00 : 1"
-          },
-          {
-            "table_title": "농어촌 경쟁률 현황",
-            "department_name": "스포츠헬스케어학과",
-            "admission_count": "1",
-            "applicant_count": "5",
-            "competition_ratio": "5.00 : 1"
-          },
-          {
-            "table_title": "수급자 경쟁률 현황",
-            "department_name": "기계공학과",
-            "admission_count": "2",
-            "applicant_count": "7",
-            "competition_ratio": "3.50 : 1"
-          },
-          {
-            "table_title": "수급자 경쟁률 현황",
-            "department_name": "기계설계공학과",
-            "admission_count": "2",
-            "applicant_count": "4",
-            "competition_ratio": "2.00 : 1"
-          },
-          {
-            "table_title": "수급자 경쟁률 현황",
-            "department_name": "로봇자동화공학과",
-            "admission_count": "2",
-            "applicant_count": "4",
-            "competition_ratio": "2.00 : 1"
-          },
-          {
-            "table_title": "수급자 경쟁률 현황",
-            "department_name": "반도체기계정비학과",
-            "admission_count": "1",
-            "applicant_count": "6",
-            "competition_ratio": "6.00 : 1"
-          },
-          {
-            "table_title": "수급자 경쟁률 현황",
-            "department_name": "조선기계공학과",
-            "admission_count": "2",
-            "applicant_count": "7",
-            "competition_ratio": "3.50 : 1"
-          },
-          {
-            "table_title": "수급자 경쟁률 현황",
-            "department_name": "항공기계공학과",
-            "admission_count": "2",
-            "applicant_count": "21",
-            "competition_ratio": "10.50 : 1"
-          },
-          {
-            "table_title": "수급자 경쟁률 현황",
-            "department_name": "자동차공학과",
-            "admission_count": "2",
-            "applicant_count": "9",
-            "competition_ratio": "4.50 : 1"
-          },
-          {
-            "table_title": "수급자 경쟁률 현황",
-            "department_name": "전기공학과",
-            "admission_count": "2",
-            "applicant_count": "9",
-            "competition_ratio": "4.50 : 1"
-          },
-          {
-            "table_title": "수급자 경쟁률 현황",
-            "department_name": "전자공학과",
-            "admission_count": "2",
-            "applicant_count": "9",
-            "competition_ratio": "4.50 : 1"
-          },
-          {
-            "table_title": "수급자 경쟁률 현황",
-            "department_name": "정보통신공학과",
-            "admission_count": "2",
-            "applicant_count": "5",
-            "competition_ratio": "2.50 : 1"
-          },
-          {
-            "table_title": "수급자 경쟁률 현황",
-            "department_name": "컴퓨터정보공학과",
-            "admission_count": "2",
-            "applicant_count": "10",
-            "competition_ratio": "5.00 : 1"
-          },
-          {
-            "table_title": "수급자 경쟁률 현황",
-            "department_name": "컴퓨터시스템공학과",
-            "admission_count": "2",
-            "applicant_count": "4",
-            "competition_ratio": "2.00 : 1"
-          },
-          {
-            "table_title": "수급자 경쟁률 현황",
-            "department_name": "디지털마케팅공학과",
-            "admission_count": "2",
-            "applicant_count": "13",
-            "competition_ratio": "6.50 : 1"
-          },
-          {
-            "table_title": "수급자 경쟁률 현황",
-            "department_name": "건설환경공학과",
-            "admission_count": "2",
-            "applicant_count": "3",
-            "competition_ratio": "1.50 : 1"
-          },
-          {
-            "table_title": "수급자 경쟁률 현황",
-            "department_name": "공간정보빅데이터학과",
-            "admission_count": "2",
-            "applicant_count": "6",
-            "competition_ratio": "3.00 : 1"
-          },
-          {
-            "table_title": "수급자 경쟁률 현황",
-            "department_name": "화학생명공학과",
-            "admission_count": "2",
-            "applicant_count": "9",
-            "competition_ratio": "4.50 : 1"
-          },
-          {
-            "table_title": "수급자 경쟁률 현황",
-            "department_name": "재료공학과",
-            "admission_count": "2",
-            "applicant_count": "5",
-            "competition_ratio": "2.50 : 1"
-          },
-          {
-            "table_title": "수급자 경쟁률 현황",
-            "department_name": "건축학과",
-            "admission_count": "2",
-            "applicant_count": "9",
-            "competition_ratio": "4.50 : 1"
-          },
-          {
-            "table_title": "수급자 경쟁률 현황",
-            "department_name": "실내건축학과",
-            "admission_count": "2",
-            "applicant_count": "14",
-            "competition_ratio": "7.00 : 1"
-          },
-          {
-            "table_title": "수급자 경쟁률 현황",
-            "department_name": "산업디자인학과",
-            "admission_count": "2",
-            "applicant_count": "8",
-            "competition_ratio": "4.00 : 1"
-          },
-          {
-            "table_title": "수급자 경쟁률 현황",
-            "department_name": "패션디자인학과",
-            "admission_count": "2",
-            "applicant_count": "7",
-            "competition_ratio": "3.50 : 1"
-          },
-          {
-            "table_title": "수급자 경쟁률 현황",
-            "department_name": "항공운항과",
-            "admission_count": "3",
-            "applicant_count": "118",
-            "competition_ratio": "39.33 : 1"
-          },
-          {
-            "table_title": "수급자 경쟁률 현황",
-            "department_name": "항공경영학과",
-            "admission_count": "2",
-            "applicant_count": "12",
-            "competition_ratio": "6.00 : 1"
-          },
-          {
-            "table_title": "수급자 경쟁률 현황",
-            "department_name": "관광경영학과",
-            "admission_count": "1",
-            "applicant_count": "18",
-            "competition_ratio": "18.00 : 1"
-          },
-          {
-            "table_title": "수급자 경쟁률 현황",
-            "department_name": "경영비서학과",
-            "admission_count": "1",
-            "applicant_count": "9",
-            "competition_ratio": "9.00 : 1"
-          },
-          {
-            "table_title": "수급자 경쟁률 현황",
-            "department_name": "호텔경영학과",
-            "admission_count": "1",
-            "applicant_count": "6",
-            "competition_ratio": "6.00 : 1"
-          },
-          {
-            "table_title": "수급자 경쟁률 현황",
-            "department_name": "물류시스템학과",
-            "admission_count": "2",
-            "applicant_count": "6",
-            "competition_ratio": "3.00 : 1"
-          },
-          {
-            "table_title": "수급자 경쟁률 현황",
-            "department_name": "스포츠헬스케어학과",
-            "admission_count": "2",
-            "applicant_count": "14",
-            "competition_ratio": "7.00 : 1"
+            "applicant_count": "0",
+            "competition_ratio": "0.00 : 1"
           },
           {
             "table_title": "지원인원 현황(전문대졸, 북한이탈주민) 지원현황",
@@ -13110,7 +12324,7 @@
           },
           {
             "table_title": "지원인원 현황(전문대졸, 북한이탈주민) 지원현황",
-            "department_name": "반도체기계정비학과",
+            "department_name": "반도체기계공학과",
             "admission_count": "",
             "applicant_count": "",
             "competition_ratio": ""
@@ -13159,14 +12373,14 @@
           },
           {
             "table_title": "지원인원 현황(전문대졸, 북한이탈주민) 지원현황",
-            "department_name": "컴퓨터정보공학과",
+            "department_name": "AI소프트웨어학과",
             "admission_count": "",
             "applicant_count": "",
             "competition_ratio": ""
           },
           {
             "table_title": "지원인원 현황(전문대졸, 북한이탈주민) 지원현황",
-            "department_name": "컴퓨터시스템공학과",
+            "department_name": "AI컴퓨터학과",
             "admission_count": "",
             "applicant_count": "",
             "competition_ratio": ""
@@ -114789,5 +114003,5 @@
       }
     }
   ],
-  "exported_at": "2026-08-31T17:14:59"
+  "exported_at": "2026-08-31T18:45:51"
 }
