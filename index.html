@@ -3441,12 +3441,36 @@ function parseDirectExcelData(workbook, fileName) {
     for (let rIdx = 0; rIdx < Math.min(10, rawRows.length); rIdx++) {
       const row = rawRows[rIdx];
       row.forEach((cell, cIdx) => {
-        const txt = String(cell).trim();
-        if (/모집단위|전형명|학과|전공|모집학부|학부|계열|구분/.test(txt) && colIndexes.dept === -1) colIndexes.dept = cIdx;
-        if (/모집인원|총모집인원|모집/.test(txt) && colIndexes.adm === -1) colIndexes.adm = cIdx;
-        if (/지원인원|지원자수|지원인원수|지원자|지원/.test(txt) && colIndexes.app === -1) colIndexes.app = cIdx;
-        if (/경쟁률|지원경쟁률/.test(txt) && colIndexes.ratio === -1) colIndexes.ratio = cIdx;
+        const txt = String(cell).replace(/\s+/g, '').trim();
+        if (['경쟁률', '지원경쟁률'].some(k => txt.includes(k)) && colIndexes.ratio === -1) {
+          colIndexes.ratio = cIdx;
+          return;
+        }
+        if (['지원인원', '지원자수', '지원인원수'].some(k => txt.includes(k)) || txt === '지원자' || txt === '지원') {
+          if (!['자격', '구분', '유형', '분야'].some(k => txt.includes(k)) && colIndexes.app === -1) {
+            colIndexes.app = cIdx;
+            return;
+          }
+        }
+        if (['모집인원', '총모집인원', '모집정원'].some(k => txt.includes(k)) || txt === '모집') {
+          if (!['단위', '학부', '학과', '전공'].some(k => txt.includes(k)) && colIndexes.adm === -1) {
+            colIndexes.adm = cIdx;
+            return;
+          }
+        }
+        if (['모집단위', '학과명', '학과', '전공', '모집학부'].some(k => txt.includes(k)) && colIndexes.dept === -1) {
+          colIndexes.dept = cIdx;
+          return;
+        }
       });
+      if (colIndexes.dept === -1) {
+        row.forEach((cell, cIdx) => {
+          const txt = String(cell).replace(/\s+/g, '').trim();
+          if (['전형명', '구분'].some(k => txt.includes(k)) && ![colIndexes.adm, colIndexes.app, colIndexes.ratio].includes(cIdx)) {
+            colIndexes.dept = cIdx;
+          }
+        });
+      }
       if (colIndexes.dept !== -1 && (colIndexes.adm !== -1 || colIndexes.app !== -1 || colIndexes.ratio !== -1)) {
         headerRowIdx = rIdx;
         break;
@@ -3814,6 +3838,156 @@ async function fetchHtmlWithProxies(targetUrl) {
 }
 
 // Client-Side DOMParser Scraping Engine (100% matched with Python scraper_service.py)
+function parseHtmlTableToGrid(tableElement) {
+  const rows = tableElement.querySelectorAll('tr');
+  const grid = [];
+  
+  rows.forEach((tr, rIdx) => {
+    while (grid.length <= rIdx) grid.push([]);
+    const cells = tr.querySelectorAll('th, td');
+    let cIdx = 0;
+    
+    cells.forEach(cell => {
+      while (cIdx < grid[rIdx].length && grid[rIdx][cIdx] !== undefined && grid[rIdx][cIdx] !== null) {
+        cIdx++;
+      }
+      const txt = (cell.textContent || '').replace(/\s+/g, ' ').trim();
+      const rowspan = Math.max(1, parseInt(cell.getAttribute('rowspan') || '1', 10) || 1);
+      const colspan = Math.max(1, parseInt(cell.getAttribute('colspan') || '1', 10) || 1);
+      
+      for (let dr = 0; dr < rowspan; dr++) {
+        const targetR = rIdx + dr;
+        while (grid.length <= targetR) grid.push([]);
+        for (let dc = 0; dc < colspan; dc++) {
+          const targetC = cIdx + dc;
+          while (grid[targetR].length <= targetC) grid[targetR].push(null);
+          grid[targetR][targetC] = txt;
+        }
+      }
+      cIdx += colspan;
+    });
+  });
+  
+  // Fill nulls with empty string
+  for (let r = 0; r < grid.length; r++) {
+    for (let c = 0; c < grid[r].length; c++) {
+      if (grid[r][c] === null || grid[r][c] === undefined) {
+        grid[r][c] = '';
+      }
+    }
+  }
+  return grid;
+}
+
+function extractDepartmentsFromGrid(grid, title) {
+  if (!grid || grid.length < 2) return [];
+  
+  let headerRowIdx = -1;
+  let colDept = -1;
+  let colAdm = -1;
+  let colApp = -1;
+  let colRatio = -1;
+  
+  for (let rIdx = 0; rIdx < Math.min(5, grid.length); rIdx++) {
+    const row = grid[rIdx];
+    let curDept = -1;
+    let curAdm = -1;
+    let curApp = -1;
+    let curRatio = -1;
+    
+    row.forEach((cell, cIdx) => {
+      const txt = (cell || '').replace(/\s+/g, '');
+      if (['경쟁률', '지원경쟁률'].some(k => txt.includes(k)) && curRatio === -1) {
+        curRatio = cIdx;
+        return;
+      }
+      if (['지원인원', '지원자수', '지원인원수'].some(k => txt.includes(k)) || txt === '지원자' || txt === '지원') {
+        if (!['자격', '구분', '유형', '분야'].some(k => txt.includes(k)) && curApp === -1) {
+          curApp = cIdx;
+          return;
+        }
+      }
+      if (['모집인원', '총모집인원', '모집정원'].some(k => txt.includes(k)) || txt === '모집') {
+        if (!['단위', '학부', '학과', '전공'].some(k => txt.includes(k)) && curAdm === -1) {
+          curAdm = cIdx;
+          return;
+        }
+      }
+      if (['모집단위', '학과명', '학과', '전공', '모집학부'].some(k => txt.includes(k))) {
+        if (curDept === -1 || (curDept !== -1 && ['계열', '구분'].some(k => (row[curDept] || '').includes(k)))) {
+          curDept = cIdx;
+          return;
+        }
+      }
+    });
+    
+    if (curDept === -1) {
+      row.forEach((cell, cIdx) => {
+        const txt = (cell || '').replace(/\s+/g, '');
+        if (['전형명', '구분'].some(k => txt.includes(k)) && ![curAdm, curApp, curRatio].includes(cIdx)) {
+          curDept = cIdx;
+        }
+      });
+    }
+    
+    if (curDept !== -1 && (curAdm !== -1 || curApp !== -1 || curRatio !== -1)) {
+      headerRowIdx = rIdx;
+      colDept = curDept;
+      colAdm = curAdm;
+      colApp = curApp;
+      colRatio = curRatio;
+      break;
+    }
+  }
+  
+  if (headerRowIdx === -1 || colDept === -1) return [];
+  
+  const depts = [];
+  for (let rIdx = headerRowIdx + 1; rIdx < grid.length; rIdx++) {
+    const row = grid[rIdx];
+    if (!row) continue;
+    const deptVal = (colDept < row.length ? row[colDept] : '').trim();
+    if (!deptVal || deptVal === 'nan' || deptVal === 'None') continue;
+    if (['모집단위', '학과명', '전형명', '구분', '계열'].includes(deptVal)) continue;
+    if (['총계', '합계', '소계'].some(w => deptVal.includes(w))) continue;
+    
+    let admVal = (colAdm !== -1 && colAdm < row.length ? row[colAdm] : '').trim();
+    let appVal = (colApp !== -1 && colApp < row.length ? row[colApp] : '').trim();
+    let ratioVal = (colRatio !== -1 && colRatio < row.length ? row[colRatio] : '').trim();
+    
+    // Column shift detection & recovery
+    if (admVal && admVal.replace(/[\d,]/g, '') !== '' && admVal !== '제한없음') {
+      if (appVal && appVal.replace(/[\d,]/g, '') === '') {
+        const realAdm = appVal;
+        const realApp = ratioVal.includes(':') ? ratioVal.replace(/\s+/g, '').split(':')[0] : ratioVal;
+        const realRatio = ratioVal.includes(':') ? ratioVal : '';
+        admVal = realAdm;
+        appVal = realApp;
+        ratioVal = realRatio;
+      }
+    }
+    
+    if (!ratioVal && admVal && appVal) {
+      try {
+        const adNum = parseFloat(admVal.replace(/,/g, ''));
+        const apNum = parseFloat(appVal.replace(/,/g, ''));
+        if (!isNaN(adNum) && adNum > 0 && !isNaN(apNum)) {
+          ratioVal = (apNum / adNum).toFixed(2) + ' : 1';
+        }
+      } catch (e) {}
+    }
+    
+    depts.push({
+      table_title: title,
+      department_name: deptVal,
+      admission_count: admVal,
+      applicant_count: appVal,
+      competition_ratio: ratioVal
+    });
+  }
+  return depts;
+}
+
 function parseUniversityHtml(htmlText, domainHint = '') {
   const parser = new DOMParser();
   const doc = parser.parseFromString(htmlText, 'text/html');
@@ -3852,42 +4026,10 @@ function parseUniversityHtml(htmlText, domainHint = '') {
     result.titles.push(headerTitle);
     result.tables_html.push(cleanTableHtml);
 
-    // Extract structured department rows
-    const rows = table.querySelectorAll('tr');
-    let colIndexes = { dept: -1, adm: -1, app: -1, ratio: -1 };
-
-    rows.forEach(tr => {
-      const ths = tr.querySelectorAll('th, td');
-      ths.forEach((cell, cIdx) => {
-        const txt = cell.textContent.trim();
-        if (/모집단위|전형명|학과|전공|모집학부|학부|계열|구분/.test(txt) && colIndexes.dept === -1) colIndexes.dept = cIdx;
-        if (/모집인원|총모집인원|모집 정원|모집/.test(txt) && colIndexes.adm === -1) colIndexes.adm = cIdx;
-        if (/지원인원|지원자수|지원인원수|지원자|지원/.test(txt) && colIndexes.app === -1) colIndexes.app = cIdx;
-        if (/경쟁률|지원경쟁률/.test(txt) && colIndexes.ratio === -1) colIndexes.ratio = cIdx;
-      });
-    });
-
-    if (colIndexes.dept !== -1) {
-      rows.forEach(tr => {
-        const tds = tr.querySelectorAll('td');
-        if (tds.length > colIndexes.dept) {
-          const deptName = (tds[colIndexes.dept]?.textContent || '').trim();
-          if (!deptName || /소계|총계|합계|모집단위|전형명|학과|전공|구분/.test(deptName)) return;
-
-          const admCount = colIndexes.adm !== -1 ? (tds[colIndexes.adm]?.textContent || '').trim() : '';
-          const appCount = colIndexes.app !== -1 ? (tds[colIndexes.app]?.textContent || '').trim() : '';
-          const compRatio = colIndexes.ratio !== -1 ? (tds[colIndexes.ratio]?.textContent || '').trim() : '';
-
-          result.parsed_departments.push({
-            table_title: headerTitle,
-            department_name: deptName,
-            admission_count: admCount,
-            applicant_count: appCount,
-            competition_ratio: compRatio
-          });
-        }
-      });
-    }
+    // Grid-based table parsing (handles rowspan/colspan and exact column matching)
+    const grid = parseHtmlTableToGrid(table);
+    const depts = extractDepartmentsFromGrid(grid, headerTitle);
+    result.parsed_departments.push(...depts);
   });
 
   return result;
